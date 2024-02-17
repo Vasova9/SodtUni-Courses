@@ -1,2 +1,2 @@
-# SodtUni-Courses
+# SoftUni-Courses
 Courses from my education @ SoftUni
